@@ -24,12 +24,15 @@ pip install -r requirements.txt
 
 
 🔍 Principais Análises e Resultados
+
 1. 📦 Preparação dos Dados
+2. 
 Foram tratadas duplicatas e valores nulos em diversas tabelas.
 
 Um modelo relacional foi construído ligando customers, orders, products, sellers, order_items, order_reviews, entre outras.
 
 2. 📊 Análise Exploratória de Dados
+3. 
 Volume de Pedidos por Mês: Identificada leve sazonalidade entre fim de ano e promoções.
 
 Tempo de Entrega: A média gira em torno de 12 dias, com grande dispersão.
@@ -41,6 +44,7 @@ Categorias com Maior Faturamento: cama_mesa_banho, relogios_presentes, moveis_de
 Estados com Maior Ticket Médio: DF, MT e ES se destacam.
 
 3. 🧠 Soluções de Problemas de Negócio
+   
 Retenção de Clientes: Apenas 3,12% dos clientes compram mais de uma vez — oportunidade para ações de fidelização.
 
 Predição de Atraso:
@@ -60,6 +64,7 @@ Satisfação do Cliente:
 Principais fatores: tempo de entrega, estado de destino e tipo de produto.
 
 4. 📈 Dashboards e Visualizações
+   
 Gráficos de evolução temporal com filtros de estado e categoria.
 
 Mapa de calor de vendas por estado.
@@ -69,6 +74,7 @@ Relação entre avaliação do cliente e tempo de entrega.
 Análise de desempenho dos vendedores.
 
 🧪 Tecnologias Utilizadas
+
 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
 SQL via SQLite
