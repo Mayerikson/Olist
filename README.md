@@ -1,9 +1,11 @@
 # Olist
 
 
-# Desafio Técnico - Programa Trainee triggo.ai 2025
 
-Este repositório contém a solução desenvolvida para o desafio técnico do Programa Trainee triggo.ai de Excelência em Engenharia de Dados e DataOps 2025. O objetivo do projeto é analisar dados históricos de e-commerce da Olist para gerar insights estratégicos e desenvolver soluções com base em Python, SQL e boas práticas de Engenharia de Dados.
+
+Este repositório contém a solução desenvolvida para o desafio técnico do Programa Trainee triggo.ai de Excelência em Engenharia de Dados e DataOps 2025.
+
+O objetivo do projeto é analisar dados históricos de e-commerce da Olist para gerar insights estratégicos e desenvolver soluções com base em Python, SQL e boas práticas de Engenharia de Dados.
 
 ## 📁 Dataset
 
